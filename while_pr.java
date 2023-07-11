@@ -10,8 +10,6 @@ public class while_pr {
             System.out.print("Enter your name: ");
             name = sc.nextLine();
         }
-
         System.out.println("Hello "+name);
-
     }
 }

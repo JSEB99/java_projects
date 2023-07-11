@@ -16,6 +16,7 @@ public class for_practice {
         double x = sc.nextDouble();
         System.out.print("Enter of number of series do you want: ");
         int n = sc.nextInt();
+        sc.close();
 
         double sin_x = 0;
         int counter = 0;
